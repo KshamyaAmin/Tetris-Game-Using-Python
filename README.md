@@ -6,5 +6,5 @@ As the game progresses, the speed increases ⚡, testing the player’s reflexes
 Built using libraries such as 🎨 Pygame, this project demonstrates core programming concepts like object-oriented design, collision detection, and event handling.
 ✨ A perfect blend of logic, fun, and creativity—challenging players to think fast and play smart!
 
-<img width="167" height="96" alt="image" src="https://github.com/user-attachments/assets/69bb5f9b-966b-4ee6-93d6-c3d5d05c7657" />
+<img width="467" height="196" alt="image" src="https://github.com/user-attachments/assets/69bb5f9b-966b-4ee6-93d6-c3d5d05c7657" />
 
