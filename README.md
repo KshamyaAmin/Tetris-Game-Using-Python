@@ -1,5 +1,4 @@
 🎮 **Tetris Game Using Python**
-
 Developed using 🐍 Python, this iconic puzzle game brings a classic gaming experience to life with smooth controls and dynamic gameplay. Players must strategically arrange falling tetromino blocks 🧩 to form complete horizontal lines, which then disappear to score points.
 
 As the game progresses, the speed increases ⚡, testing the player’s reflexes, decision-making, and spatial awareness. The game includes features like real-time score tracking 📊, game-over detection ❌, and responsive keyboard controls 🎹 for movement and rotation of blocks.
